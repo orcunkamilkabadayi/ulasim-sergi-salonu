@@ -1,9 +1,9 @@
-# Ula??m Sergi Salonu
+# Ulaşım Sergi Salonu
 
-N?tr ?rnek i?eriklerle haz?rlanm?? etkile?imli 3D sergi prototipi. On proje dura??, kamera gezintisi, d?zenleme paneli ve ta??nabilir JSON koleksiyonu i?erir. Ger?ek kurum, proje veya g?zerg?h verisi i?ermez.
+Nötr örnek içeriklerle hazırlanmış etkileşimli 3D sergi prototipi. On proje durağı, kamera gezintisi, düzenleme paneli ve taşınabilir JSON koleksiyonu içerir. Gerçek kurum, proje veya güzergâh verisi içermez.
 
-## Ba?latma
+## Başlatma
 
-`index.html` dosyas?n? g?ncel Chrome veya Edge taray?c?s?nda a??n. Sunucu ve API anahtar? gerekmez. Kontroller ve i?erik d?zenleme i?in [KULLANIM.md](KULLANIM.md) dosyas?na bak?n.
+`index.html` dosyasını güncel Chrome veya Edge tarayıcısında açın. Sunucu ve API anahtarı gerekmez. Kontroller ve içerik düzenleme için [KULLANIM.md](KULLANIM.md) dosyasına bakın.
 
-G?rseller bo? tasar?mlard?r; kullan?c? kendi i?eriklerini taray?c?da ekleyebilir. Bu uygulama ger?ek bir yap?n?n veya arac?n dijital ikizi de?ildir.
+Görseller boş tasarımlardır; kullanıcı kendi içeriklerini tarayıcıda ekleyebilir. Bu uygulama gerçek bir yapının veya aracın dijital ikizi değildir.
