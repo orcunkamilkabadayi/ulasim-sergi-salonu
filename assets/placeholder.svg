@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title">
+  <title id="title">Boş görsel alanı</title>
+  <rect width="800" height="500" fill="#e8efeb"/>
+  <rect x="35" y="35" width="730" height="430" rx="18" fill="#f5f8f4" stroke="#9eb8ac" stroke-width="3" stroke-dasharray="14 12"/>
+  <circle cx="400" cy="207" r="48" fill="none" stroke="#6f9988" stroke-width="7"/>
+  <path d="M377 207h46M400 184v46" stroke="#6f9988" stroke-width="7" stroke-linecap="round"/>
+  <text x="400" y="309" fill="#426b5a" font-family="Arial,sans-serif" font-size="26" font-weight="700" text-anchor="middle">GÖRSEL ALANI</text>
+</svg>
